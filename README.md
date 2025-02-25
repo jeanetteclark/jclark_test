@@ -5,6 +5,7 @@ A test repository to learn git/github
 
 - create a remote repo on github
 - practice git
+- learn stuff
 
 ## Authors
 
