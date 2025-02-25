@@ -9,3 +9,4 @@ A test repository to learn git/github
 ## Authors
 
 - Jeanette Clark
+- Jim Regetz
